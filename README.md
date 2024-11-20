@@ -10,7 +10,7 @@ Please note that this client is made especially for pauytrh and might not fit yo
 ## INSTALL
  
 
-1.  Download the "Pauyshot_v1.exe " file
+1.  Download the [https://drive.google.com/file/d/1bIaId6knwH4iuOV5hc24jeXU5R0IH6gQ/view?usp=sharing](Pauyshot_v1.exe) file
    
 2.  run it (usally by double clicking it in your file manager or clicking it in your browser downloads)
 
