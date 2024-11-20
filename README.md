@@ -20,4 +20,4 @@ Thats it, You are good to go! (to run the app search for "pauyshot" in your app 
 
 > [!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
-> Some windows versions say its a virus because it dosent have a publisher, IT IS NOT A VIRUS, SCAN IT IF WANT IN ANY MALWARE SCANNER. to bypass this click "Advanced options"  > or "More" or something like that and an install anyway button should pop up
+> Some windows versions say its a virus because it dosent have a publisher, IT IS NOT A VIRUS, SCAN IT IF WANT IN ANY MALWARE SCANNER. to bypass this click "Advanced options"  or "More" or something like that and an install anyway button should pop up
